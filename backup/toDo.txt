@@ -1,0 +1,11 @@
+build a new button function with jquery					check
+build a PR slider							check
+build and apply PR slider filter function				check		
+build and apply sentiment filters					check
+build sentiment graph based on sentiment percentage			
+conceptualize message mark						check
+apply message mark to sentiment graph					check
+apply filtering to the message marks					check
+add time brushing							check
+add scale adjustment button
+apply styling 								check
